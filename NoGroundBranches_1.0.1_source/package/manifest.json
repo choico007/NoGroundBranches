@@ -1,0 +1,7 @@
+{
+  "name": "NoGroundBranches",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/choico007/NoGroundBranches",
+  "description": "Stop!! branches from auto-spawning on the ground. Configurable, optionally removes existing ones.",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.2202"]
+}
